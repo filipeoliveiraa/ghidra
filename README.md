@@ -1,4 +1,6 @@
 # Ghidra Software Reverse Engineering Framework
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fghidra.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fghidra?ref=badge_shield)
+
 
 Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
@@ -21,3 +23,7 @@ consider applying for a [career with us][career].
 [contrib]: CONTRIBUTING.md
 [career]: https://www.intelligencecareers.gov/nsa
 [project]: https://www.ghidra-sre.org/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fghidra.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fghidra?ref=badge_large)
